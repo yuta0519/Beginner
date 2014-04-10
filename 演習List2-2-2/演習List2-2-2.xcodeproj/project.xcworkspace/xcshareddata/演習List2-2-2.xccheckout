@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B8D43F3-E4BC-4CA5-80AD-67E9CDC614E2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>演習List2-2-2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4A98724-DE49-4EF3-A9C0-276502444F55</key>
+		<string>https://github.com/yuta0519/Beginner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>演習List2-2-2/演習List2-2-2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4A98724-DE49-4EF3-A9C0-276502444F55</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yuta0519/Beginner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4A98724-DE49-4EF3-A9C0-276502444F55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4A98724-DE49-4EF3-A9C0-276502444F55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>演習2-2-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

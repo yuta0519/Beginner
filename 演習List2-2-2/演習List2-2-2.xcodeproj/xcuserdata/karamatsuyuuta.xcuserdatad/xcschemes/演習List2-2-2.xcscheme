@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A6145BF818F59055007D9F23"
-               BuildableName = "&#x6f14;&#x7fd2;2-2-1"
-               BlueprintName = "&#x6f14;&#x7fd2;2-2-1"
-               ReferencedContainer = "container:&#x6f14;&#x7fd2;2-2-1.xcodeproj">
+               BlueprintIdentifier = "A639F9C618F6D9380079A5AB"
+               BuildableName = "&#x6f14;&#x7fd2;List2-2-2"
+               BlueprintName = "&#x6f14;&#x7fd2;List2-2-2"
+               ReferencedContainer = "container:&#x6f14;&#x7fd2;List2-2-2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A6145BF818F59055007D9F23"
-            BuildableName = "&#x6f14;&#x7fd2;2-2-1"
-            BlueprintName = "&#x6f14;&#x7fd2;2-2-1"
-            ReferencedContainer = "container:&#x6f14;&#x7fd2;2-2-1.xcodeproj">
+            BlueprintIdentifier = "A639F9C618F6D9380079A5AB"
+            BuildableName = "&#x6f14;&#x7fd2;List2-2-2"
+            BlueprintName = "&#x6f14;&#x7fd2;List2-2-2"
+            ReferencedContainer = "container:&#x6f14;&#x7fd2;List2-2-2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A6145BF818F59055007D9F23"
-            BuildableName = "&#x6f14;&#x7fd2;2-2-1"
-            BlueprintName = "&#x6f14;&#x7fd2;2-2-1"
-            ReferencedContainer = "container:&#x6f14;&#x7fd2;2-2-1.xcodeproj">
+            BlueprintIdentifier = "A639F9C618F6D9380079A5AB"
+            BuildableName = "&#x6f14;&#x7fd2;List2-2-2"
+            BlueprintName = "&#x6f14;&#x7fd2;List2-2-2"
+            ReferencedContainer = "container:&#x6f14;&#x7fd2;List2-2-2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A6145BF818F59055007D9F23"
-            BuildableName = "&#x6f14;&#x7fd2;2-2-1"
-            BlueprintName = "&#x6f14;&#x7fd2;2-2-1"
-            ReferencedContainer = "container:&#x6f14;&#x7fd2;2-2-1.xcodeproj">
+            BlueprintIdentifier = "A639F9C618F6D9380079A5AB"
+            BuildableName = "&#x6f14;&#x7fd2;List2-2-2"
+            BlueprintName = "&#x6f14;&#x7fd2;List2-2-2"
+            ReferencedContainer = "container:&#x6f14;&#x7fd2;List2-2-2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
